@@ -21,7 +21,7 @@ This folder contains the fundamental building blocks of the Python language.
 ## 🛠️ Current Progress
 - [x] **Python Core Fundamentals** (Complete)
 - [ ] **Object-Oriented Programming (OOP)** (Next Step)
-- [ ] **Pandas Library Practice** (Upcoming)
+- [ ] **Pandas Library Practice** (completed)
 - [ ] **NumPy Foundations** (Upcoming)
 
 ## 🎯 Focus Areas
